@@ -3,7 +3,8 @@
 - I’m currently learning some GameDev stuff along with learning Data Science
 - Primary Language: Python
 - Secondary: C++
-- Age: 17 
+- Age: 16
+-
 - Aspiring to AI Jobs
 <!---
 NitroSniper/NitroSniper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
