@@ -4,7 +4,6 @@
 - Primary Language: Python
 - Secondary: C++
 - Age: 16
--
 - Aspiring to AI Jobs
 <!---
 NitroSniper/NitroSniper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
