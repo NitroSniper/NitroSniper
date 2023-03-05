@@ -6,6 +6,8 @@ This Github is primarily used to store some codes which I'm proud enough to actu
 * Rust: Wanting my code to be faster, efficient and safe. 
 
 Interested in AI but still looking around
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitroSniper)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 NitroSniper/NitroSniper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
